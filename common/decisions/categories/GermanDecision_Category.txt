@@ -1,0 +1,11 @@
+#################
+#### GERMANY ####
+#################
+
+Technical_Singularity_Programm = {
+	icon = generic_political_actions
+	
+	allowed = {
+		always = yes
+	}
+}

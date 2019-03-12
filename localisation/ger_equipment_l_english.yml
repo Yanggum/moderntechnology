@@ -1,0 +1,50 @@
+﻿l_english:
+ future_mechanized_equipment:0 "미래형 기계화 장비"
+ future_infantry_equipment:0 "미래형 보병 장비"
+ future_modern_tank_equipment:0 "미래형 전차"
+ future_modern_tank_aa_equipment:0 "미래형 자주대공포"
+ future_modern_tank_artillery_equipment:0 "미래형 자주포"
+ future_fighter_equipment:0 "미래형 전투기"
+ future_cas_equipment:0 "미래형 공격기"
+ future_jet_strat_bomber_equipment:0 "미래형 폭격기"
+ future_anti_tank_equipment:0 "미래형 대전차 장비"
+ future_anti_air_equipment:0 "미래형 대공 장비" 
+ 
+ future_mechanized_equipment_desc:0 "기계화 보병은 수송 및 전투에 사용하기 위한 장갑수송차(APCs) 또는 보병전투차(IFVs)를 장비한 보병입니다. 기계화 보병은 적의 포화에 대한 방호력에서 비장갑 차륜형 차량(트럭,지프)를 장비한 차량화 보병과 구분됩니다."
+ future_infantry_equipment_desc:0 "개인과 승무원들에게 지급되는 보병화기로 군인에게 필요로 하는 다양한 소도구들을 포함하고 있습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ future_modern_tank_equipment_desc:0 "미래형 전차는 정찰, 지원 또는 심지어 최전선의 전차까지 많은 역할을 수행할 수 있는 다목적의 민첩한 전차입니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ future_modern_tank_aa_equipment_desc:0 "대공 미사일과 속사포의 조합인 현대식 대공포는 비행기에 치명적인 위협이 되었습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ future_modern_tank_artillery_equipment_desc:0 "현대식 자주포 차량은 흔히 전차와 유사하지만 일반적으로 직접 포격 전투에서 살아남기에는 지나치게 경량 장갑이다. 그러나 파편이나 소화기에 대한 승무원의 방호는 가능하다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ future_fighter_equipment_desc:0 "후퇴익과 가벼운 소재를 채택한 새로운 설계는 항속 거리와 속도의 향상에 있어서 제트 전투기 이상의 혁명을 이루어냈습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ future_cas_equipment_desc:0 "발전하는 적의 대공능력과 요격기들은 우리의 근접 항공 지원기들의 진화를 요구하고 있습니다. 이 새로운 설계는 증가한 엔진의 출력, 급강하 능력과 방어력을 늘린 동체, 더 많은 폭장량을 포함하고 있습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ future_jet_strat_bomber_equipment_desc:0 "다수의 제트 엔진을 가진 새로운 설계는 큰 폭장량과 긴 항속거리에도 전례없는 속도를 가능케 하였습니다. 이 항공기들은 대량 파괴 병의 역사에서 새로운 시대를 열게 되었습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ future_anti_tank_equipment_desc:0 "전차같은 장갑목표물을 격파하는데 특화된 포는 일반적으로 장갑 관통탄을 발사합니다. 재설계된 이 장비는 현재 기술 수준으로도 원활히 제작할 수 있을거 같습니다."
+ future_anti_air_equipment_desc:0 "대공포는 주로 적 항공기를 격추하도록 설계되었지만, 지상 목표에 대해서도 효과적인 속사포였습니다. 재설계된 이 장비는 현재 기술 수준으로도 원활히 제작할 수 있을거 같습니다."
+ future_mlrs_equipment_desc:0 "다연장 로켓 발사기는 전통적인 포병보다 목표지점에 대한 더 빠른 화력투사를 보여주지만 낮은 명중률과 긴 재장전 시간을 가진다. 트럭 장착형 다연장 로켓은 적의 반격전에 타격하고 이동하는 것이 가능하다. 재설계된 이 장비는 현재 기술 수준으로도 원활히 제작할 수 있을거 같습니다."
+ ### GER Equipment Name ###
+ 
+ # 미래 장비
+ GER_future_mechanized_equipment:0 "Spähwagen Fennek"
+ GER_future_infantry_equipment:0 "HK416"
+ GER_future_modern_tank_equipment:0 "Leopard 2A5"
+ GER_future_modern_tank_aa_equipment:0 "미래형 자주대공포"
+ GER_future_modern_tank_artillery_equipment:0 "미래형 자주포"
+ GER_future_fighter_equipment:0 "Tornado GR4"
+ GER_future_cas_equipment:0 "미래형 공격기"
+ GER_future_jet_strat_bomber_equipment:0 "미래형 폭격기"
+ GER_future_anti_tank_equipment:0 "미래형 대전차 장비"
+ GER_future_anti_air_equipment:0 "미래형 대공 장비" 
+  
+ GER_future_mechanized_equipment_desc:0 "기계화 보병은 수송 및 전투에 사용하기 위한 장갑수송차(APCs) 또는 보병전투차(IFVs)를 장비한 보병입니다. 기계화 보병은 적의 포화에 대한 방호력에서 비장갑 차륜형 차량(트럭,지프)를 장비한 차량화 보병과 구분됩니다."
+ GER_future_infantry_equipment_desc:0 "개인과 승무원들에게 지급되는 보병화기로 군인에게 필요로 하는 다양한 소도구들을 포함하고 있습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ GER_future_modern_tank_equipment_desc:0 "미래형 전차는 정찰, 지원 또는 심지어 최전선의 전차까지 많은 역할을 수행할 수 있는 다목적의 민첩한 전차입니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ GER_future_modern_tank_aa_equipment_desc:0 "대공 미사일과 속사포의 조합인 현대식 대공포는 비행기에 치명적인 위협이 되었습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ GER_future_modern_tank_artillery_equipment_desc:0 "현대식 자주포 차량은 흔히 전차와 유사하지만 일반적으로 직접 포격 전투에서 살아남기에는 지나치게 경량 장갑이다. 그러나 파편이나 소화기에 대한 승무원의 방호는 가능하다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ GER_future_fighter_equipment_desc:0 "후퇴익과 가벼운 소재를 채택한 새로운 설계는 항속 거리와 속도의 향상에 있어서 제트 전투기 이상의 혁명을 이루어냈습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ GER_future_cas_equipment_desc:0 "발전하는 적의 대공능력과 요격기들은 우리의 근접 항공 지원기들의 진화를 요구하고 있습니다. 이 새로운 설계는 증가한 엔진의 출력, 급강하 능력과 방어력을 늘린 동체, 더 많은 폭장량을 포함하고 있습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ GER_future_jet_strat_bomber_equipment_desc:0 "다수의 제트 엔진을 가진 새로운 설계는 큰 폭장량과 긴 항속거리에도 전례없는 속도를 가능케 하였습니다. 이 항공기들은 대량 파괴 병의 역사에서 새로운 시대를 열게 되었습니다. 이 미래형 장비는 현재 기술 수준으로는 제작하기 어려워 보입니다."
+ GER_future_anti_tank_equipment_desc:0 "전차같은 장갑목표물을 격파하는데 특화된 포는 일반적으로 장갑 관통탄을 발사합니다. 재설계된 이 장비는 현재 기술 수준으로도 원활히 제작할 수 있을거 같습니다."
+ GER_future_anti_air_equipment_desc:0 "대공포는 주로 적 항공기를 격추하도록 설계되었지만, 지상 목표에 대해서도 효과적인 속사포였습니다. 재설계된 이 장비는 현재 기술 수준으로도 원활히 제작할 수 있을거 같습니다." 
+ 
+ 
+ 

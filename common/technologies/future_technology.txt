@@ -1,0 +1,145 @@
+technologies = {
+	future_computing_machine = {	
+		# small boost to research speed
+		research_speed_factor = 0.25
+		
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+	
+	future_computing_encryption = {	
+		# small boost to research speed
+		encryption = 9
+		
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+	
+	future_computing_decryption = {	
+		# small boost to research speed
+		decryption = 9
+		
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+	
+	future_production_line = {	
+		production_factory_max_efficiency_factor = 7.5
+		line_change_production_efficiency_factor = 1.0
+		production_factory_efficiency_gain_factor = 1.0		
+	
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}	
+	}
+	
+	future_industry = {
+		industrial_capacity_factory = 2.5
+		industrial_capacity_dockyard = 5.0
+		line_change_production_efficiency_factor = 1.5
+		production_factory_start_efficiency_factor = 0.75
+		industry_air_damage_factor = -1.00
+		global_building_slots_factor = 200	
+		equipment_conversion_speed = 1.20
+	
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}		
+	}
+	
+	future_construction = {
+		production_speed_buildings_factor = 100.0
+		industry_repair_factor = 10000.0	
+	
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}			
+	}
+	
+	future_mining = {
+		local_resources_factor = 10.50	
+	
+		on_research_complete = {
+
+			modify_building_resources = {
+				building = industrial_complex
+				resource = aluminium
+				amount = 8
+			}
+			
+			modify_building_resources = {
+				building = industrial_complex
+				resource = tungsten
+				amount = 8
+			}
+
+			modify_building_resources = {
+				building = industrial_complex
+				resource = steel
+				amount = 8
+			}
+
+			modify_building_resources = {
+				building = industrial_complex
+				resource = chromium
+				amount = 8
+			}
+		}
+	
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}			
+	}
+	
+	future_oil_factory = {
+	
+		fuel_gain_factor_from_states = 8.0
+		
+		on_research_complete = {
+
+			modify_building_resources = {
+				building = synthetic_refinery
+				resource = rubber
+				amount = 8
+			}
+		}
+		
+		fuel_gain_factor = 6
+		fuel_gain_factor_from_states = 5
+			
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}			
+	}
+	
+	
+
+
+}

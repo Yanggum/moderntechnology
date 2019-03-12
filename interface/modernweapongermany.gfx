@@ -1,0 +1,135 @@
+spriteTypes = {	
+
+	### COMMON futrue equipment ###
+	
+	spriteType = {
+		name = "GFX_future_anti_air_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_anti_air.dds"
+	}		
+	spriteType = {
+		name = "GFX_future_anti_tank_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_anti_tank.dds"
+	}		
+	spriteType = {
+		name = "GFX_future_artillery_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_artillery.dds"
+	}		
+	spriteType = {
+		name = "GFX_future_infantry_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_infantry_weapons.dds"
+	}		
+	spriteType = {
+		name = "GFX_future_cas_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_CAS.dds"
+	}		
+	spriteType = {
+		name = "GFX_future_fighter_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_jet_multirole.dds"
+	}		
+	spriteType = {
+		name = "GFX_future_jet_strat_bomber_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_jet_bomber.dds"
+	}			
+	spriteType = {
+		name = "GFX_future_mechanized_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_mechanized_equipment.dds"
+	}		
+	spriteType = {
+		name = "GFX_future_modern_tank_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_modern_tank.dds"
+	}
+	spriteType = {
+		name = "GFX_future_modern_tank_aa_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_modern_tank_aa.dds"
+	}			
+	spriteType = {
+		name = "GFX_future_modern_tank_artillery_equipment_medium"
+		texturefile = "gfx/interface/technologies/future_modern_tank_artillery.dds"
+	}
+	
+	### INDUSTRY ###
+	spriteType = {
+		name = "GFX_future_computing_machine_medium"
+		texturefile = "gfx/interface/technologies/industry/modern_hardware2.tga"
+	}
+	spriteType = {
+		name = "GFX_future_computing_encryption_medium"
+		texturefile = "gfx/interface/technologies/industry/encryption2.tga"
+	}
+	spriteType = {
+		name = "GFX_future_computing_decryption_medium"
+		texturefile = "gfx/interface/technologies/industry/decryption2.tga"
+	}
+	spriteType = {
+		name = "GFX_future_production_line_medium"
+		texturefile = "gfx/interface/technologies/industry/manufacturing2.dds"
+	}
+	spriteType = {
+		name = "GFX_future_industry_medium"
+		texturefile = "gfx/interface/technologies/industry/machine_tools2.dds"
+	}
+	spriteType = {
+		name = "GFX_future_construction_medium"
+		texturefile = "gfx/interface/technologies/industry/construction2.dds"
+	}
+	spriteType = {
+		name = "GFX_future_mining_medium"
+		texturefile = "gfx/interface/technologies/industry/software2.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_future_oil_factory_medium"
+		texturefile = "gfx/interface/technologies/industry/oil2.dds"
+	}
+	
+	
+	
+
+	### GERMAN EQUIPMENT ###
+	
+	spriteType = {
+		name = "GFX_GER_future_anti_air_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_anti_air.dds"
+	}		
+	spriteType = {
+		name = "GFX_GER_future_anti_tank_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_anti_tank.dds"
+	}		
+	spriteType = {
+		name = "GFX_GER_future_artillery_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_artillery.dds"
+	}		
+	spriteType = {
+		name = "GFX_GER_future_infantry_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_infantry_weapons.dds"
+	}		
+	spriteType = {
+		name = "GFX_GER_future_cas_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_CAS.dds"
+	}		
+	spriteType = {
+		name = "GFX_GER_future_fighter_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_jet_multirole.dds"
+	}		
+	spriteType = {
+		name = "GFX_GER_future_jet_strat_bomber_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_jet_bomber.dds"
+	}			
+	spriteType = {
+		name = "GFX_GER_future_mechanized_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_mechanized_equipment.dds"
+	}		
+	spriteType = {
+		name = "GFX_GER_future_modern_tank_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_modern_tank.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_future_modern_tank_aa_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_modern_tank_aa.dds"
+	}			
+	spriteType = {
+		name = "GFX_GER_future_modern_tank_artillery_equipment_medium"
+		texturefile = "gfx/interface/technologies/GER_future_modern_tank_artillery.dds"
+	}			
+	
+}

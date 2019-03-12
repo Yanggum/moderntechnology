@@ -1,0 +1,186 @@
+technologies = {
+	######## FUTURE TECH DESICISON UNLOCK ########
+
+	##### ##### ##### ##### #####
+
+	amphibious_mechanized_equipment_future = {
+		enable_equipments = { 
+			amphibious_mechanized_equipment_future
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+	
+	
+	future_mechanized_equipment = {
+
+		enable_equipments = { 
+			future_mechanized_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	##### ##### ##### ##### #####
+
+	future_infantry_equipment = {
+
+		enable_equipments = { 
+			future_infantry_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	##### ##### ##### ##### #####
+
+	future_modern_tank_equipment = {
+
+		enable_equipments = { 
+			future_modern_tank_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	##### ##### ##### ##### #####
+
+	future_modern_tank_aa_equipment = {
+
+		enable_equipments = { 
+			future_modern_tank_aa_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	##### ##### ##### ##### #####
+
+	future_modern_tank_artillery_equipment = {
+
+		enable_equipments = { 
+			future_modern_tank_artillery_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	future_modern_tank_artillery_equipment = {
+
+		enable_equipments = { 
+			future_modern_tank_artillery_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	##### ##### ##### ##### #####
+
+	future_fighter_equipment = {
+
+		enable_equipments = { 
+			future_fighter_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	##### ##### ##### ##### #####
+
+	future_cas_equipment = {
+
+		enable_equipments = { 
+			future_cas_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	##### ##### ##### ##### #####
+
+	future_jet_strat_bomber_equipment = {
+
+		enable_equipments = { 
+			future_jet_strat_bomber_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	future_anti_air_equipment = {
+		enable_equipments = { 
+			future_anti_air_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+
+	future_anti_tank_equipment = {
+		enable_equipments = { 
+			future_anti_tank_equipment
+		}
+
+		research_cost = 1
+		start_year = 1945
+
+		allow = {
+			always = no
+		}
+	}
+	
+}
